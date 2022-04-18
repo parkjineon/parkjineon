@@ -1,5 +1,4 @@
-### Jineon 🏰
-
+### 
 <!--
 **parkjineon/parkjineon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=4FC9DE&height=300&section=header&text=TrueWords%20World&fontSize=90&fontColor=DFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=4FC9DE&height=300&section=header&text=TrueWord%20World&fontSize=90&fontColor=DFFFFF&animation=fadeIn)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjineon&show_icons=true&theme=default)
 
