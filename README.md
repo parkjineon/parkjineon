@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3CAFE0&height=500&section=header&text=True%20Word&fontAlign=17&fontAlignY=63&descAlign=26&desc=Hello%20World🐬&descSize=40&descAlignY=71&fontSize=50&fontColor=FFFFFF&animation=twinkling)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjineon&show_icons=true&theme=default&title_color=3CAFE0&text_color=4283AB&icon_color=3CAFE0&border_color=4283AB&bg_color=E4EBF1)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjineon&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjineon&show_icons=true&theme=default&title_color=3CAFE0&text_color=4283AB&icon_color=3CAFE0&border_color=4283AB&bg_color=dfeafb)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjineon&layout=compact)
