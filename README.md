@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=4FC9DE&height=300&section=header&text=True%20Word&fontAlign=17&descAlign=26&desc=Hello%20World✋🏻🐬&descSize=40&descAlignY=65&fontSize=50&fontColor=DFFFFF&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=4FC9DE&height=300&section=header&text=True%20Word&fontAlign=17&descAlign=26&desc=Hello%20World🐬&descSize=40&descAlignY=65&fontSize=50&fontColor=DFFFFF&animation=twinkling)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjineon&show_icons=true&theme=default)
 
