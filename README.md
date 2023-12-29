@@ -10,24 +10,22 @@
 🪪 Certificate : 정보처리기사  
 💰 Awards : 학업우수상 3회  
 
-<!--## 👨🏻‍💻 Outside Activities & Education
-인턴 2번-->  
+## 👨🏻‍💻 History
+| PERIOD | ACTIVITES | 
+| ------- | ------- | 
+| 2021.07 ~ 2021.08 | **서울문화재단 홍보IT팀 인턴** | 
+| 2022.03 ~ 2023.06 | **천재교과서 컨텐츠부문 코딩부 인턴** | 
+| 2023.12 ~ 2024.06 | **신한투자증권 프로디지털아카데미 3기** |
 
+## 📚 STACKS
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <!-- html5 -->
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <!-- css -->
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <!-- js -->
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <!-- python -->
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <!-- node.js -->
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <!-- react -->
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjineon&show_icons=true&theme=default&title_color=3CAFE0&text_color=4283AB&icon_color=3CAFE0&border_color=4283AB&hide_border=True)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjineon&layout=compact&theme=default&title_color=3CAFE0&text_color=4283AB&icon_color=3CAFE0&border_color=4283AB&hide_border=True)
 [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjo3789)](https://solved.ac/pjo3789/)
-
-<div align=center><h1>📚 STACKS</h1></div>
-<div align=center> 
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</div>
-
-
-
