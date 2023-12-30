@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=3CAFE0&height=400&section=header&text=True%20Word&fontAlign=17&fontAlignY=63&descAlign=26&desc=Hello%20World🐬&descSize=40&descAlignY=71&fontSize=50&fontColor=FFFFFF&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=3CAFE0&height=400&section=header&text=True%20Word&fontAlign=17&fontAlignY=60&descAlign=26&desc=Hello%20World🐬&descSize=40&descAlignY=71&fontSize=50&fontColor=FFFFFF&animation=twinkling)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparkjineon%2Fhit-counter&count_bg=%2375E1FF&title_bg=%234D90BB&icon=iconify.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
