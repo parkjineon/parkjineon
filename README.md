@@ -13,7 +13,7 @@
 ## 🎤About me
 | PERIOD | ACTIVITES |
 | ------- | ------- |
-|2018.03 ~ 2023.02 | **HYU Department of Information Sysyem** |    
+|2018.03 ~ 2023.02 | **HYU Department of Information System** |    
 |2022.11| **정보처리기사** |  
 
 <br/>
