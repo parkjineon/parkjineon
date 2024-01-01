@@ -5,7 +5,10 @@
 
 # Hello, I'm Jineon👋
 
-<br/>
+```
+진정으로 현명한 사람은 배움을 멈추지 않는다.
+진정으로 배우기 위해서는 겸손해야 한다.
+```
 
 ## 🎤About me
 | PERIOD | ACTIVITES |
