@@ -11,6 +11,7 @@
 ```
 
 ## 🎤About me
+
 | PERIOD | ACTIVITES |
 | ------- | ------- |
 |2018.03 ~ 2023.02 | **HYU Department of Information System** |    
@@ -19,6 +20,7 @@
 <br/>
 
 ## 👨🏻‍💻 History
+
 | PERIOD | ACTIVITES | 
 | ------- | ------- | 
 | 2021.07 ~ 2021.08 | **서울문화재단 홍보IT팀 인턴** | 
