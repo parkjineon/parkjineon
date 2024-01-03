@@ -29,7 +29,17 @@
 
 <br/>
 
-## 📚 STACKS
+## 🎞 Projects
+
+| PERIOD | NAME | CONTENT | 
+| ------- | ------- | ------- |
+| 2022.07 ~ 2022.08 | **책과 꽃나무** | 도서 및 영화 기록 사이트|
+| 2022.12 ~ 2023.01 | **우동** | 온란인 전시회 사이트|
+
+
+<br/>
+
+## 📚 Stacks
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <!-- html5 -->
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <!-- css -->
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <!-- js -->
